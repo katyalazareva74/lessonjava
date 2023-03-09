@@ -1,0 +1,14 @@
+мар. 09, 2023 3:56:31 PM homework2.program1 loggersort
+INFO: Исходный массив: 163590
+мар. 09, 2023 3:56:31 PM homework2.program1 loggersort
+INFO: 1356049
+мар. 09, 2023 3:56:31 PM homework2.program1 loggersort
+INFO: 1350469
+мар. 09, 2023 3:56:31 PM homework2.program1 loggersort
+INFO: 1304569
+мар. 09, 2023 3:56:31 PM homework2.program1 loggersort
+INFO: 1034569
+мар. 09, 2023 3:56:31 PM homework2.program1 loggersort
+INFO: 0134569
+мар. 09, 2023 3:56:31 PM homework2.program1 loggersort
+INFO: Массив отсортирован!  0134569
