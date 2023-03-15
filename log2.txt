@@ -1,0 +1,30 @@
+мар. 15, 2023 10:51:44 AM homework4.loggercal logger1
+INFO: 42.0 + 84.0 = 126.0
+мар. 15, 2023 10:51:57 AM homework4.loggercal logger1
+INFO: 126.0 / 6.0 = 21.0
+мар. 15, 2023 10:52:03 AM homework4.loggercal logger1
+INFO: 21.0 * 7.0 = 147.0
+мар. 15, 2023 10:52:12 AM homework4.loggercal logger1
+INFO: 147.0 - 31.0 = 116.0
+мар. 15, 2023 10:52:26 AM homework4.loggercal logger1
+INFO: Отмена операции.  147.0
+мар. 15, 2023 10:52:32 AM homework4.loggercal logger1
+INFO: Отмена операции.  21.0
+мар. 15, 2023 10:52:38 AM homework4.loggercal logger1
+INFO: Выход.  
+мар. 15, 2023 10:52:38 AM homework4.loggercal logger1
+INFO: Завершение работы.
+мар. 15, 2023 10:53:41 AM homework4.loggercal logger1
+INFO: 36.0 / 0.0  На ноль делить нельзя!
+мар. 15, 2023 10:53:52 AM homework4.loggercal logger1
+INFO: 36.0 / 6.0 = 6.0
+мар. 15, 2023 10:54:04 AM homework4.loggercal logger1
+INFO: 6.0 * 7.0 = 42.0
+мар. 15, 2023 10:54:13 AM homework4.loggercal logger1
+INFO: Отмена операции.  6.0
+мар. 15, 2023 10:54:20 AM homework4.loggercal logger1
+INFO: Отмена операции.  36.0
+мар. 15, 2023 10:55:09 AM homework4.loggercal logger1
+INFO: Отмена операции.  null
+мар. 15, 2023 10:55:09 AM homework4.loggercal logger1
+INFO: Завершение работы.
